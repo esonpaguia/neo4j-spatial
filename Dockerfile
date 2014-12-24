@@ -4,7 +4,7 @@
 ## get java from trusted build
 ## Modified from 
 FROM dockerfile/java
-MAINTAINER John Clegg, john@projectx.co.nz
+MAINTAINER Eson Paguia, etpaguia@gmail.com
 
 ## install neo4j according to http://www.neo4j.org/download/linux
 # Import neo4j signing key
